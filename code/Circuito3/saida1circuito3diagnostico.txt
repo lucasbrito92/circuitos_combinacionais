@@ -1,0 +1,11 @@
+######### Análise do Circuito: O1=(I or (J nand K) or (J or p0)) #########
+
+-> Possível falha para o circuito: (PortaPresaEm1 or (J nand K) or (J or XX))
+-> Possível falha para o circuito: (PortaPresaEm0 or (J nand K) or (J or XX))
+-> Possível falha para o circuito: (I or (J nand PortaPresaEm1) or (J or XX))
+-> Possível falha para o circuito: (I or (J nand PortaPresaEm0) or (J or XX))
+-> Possível falha para o circuito: (I or (J nand K) or (J or PortaPresaEm1))
+-> Possível falha para o circuito: (I or (J nand K) or (J or PortaPresaEm0))
+
+
+Tempo de execução do diagnóstico: 0.016052961349487305 segundos.

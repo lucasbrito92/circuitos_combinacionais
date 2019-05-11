@@ -1,0 +1,6 @@
+######### Análise do Circuito: Cout=(((A xor B) and p0) or (A and B)) #########
+
+-> Possível falha para o circuito: (((A xor B) and PortaPresaEm0) or (A and B))
+
+
+Tempo de execução do diagnóstico: 0.016667842864990234 segundos.

@@ -1,0 +1,6 @@
+######### Análise do Circuito: O2=((J nand p1) nand ((J or K) or (L and M))) #########
+
+-> Possível falha para o circuito: ((J nand PortaPresaEm1) nand ((J or K) or (L and M)))
+
+
+Tempo de execução do diagnóstico: 0.02502298355102539 segundos.

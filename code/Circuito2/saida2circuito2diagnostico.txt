@@ -1,0 +1,7 @@
+######### Análise do Circuito: G16=((E nand (F nand p0)) nand (G nand H)) #########
+
+-> Possível falha para o circuito: ((E nand (PortaPresaEm0 nand XX)) nand (G nand H))
+-> Possível falha para o circuito: ((E nand (F nand PortaPresaEm0)) nand (G nand H))
+
+
+Tempo de execução do diagnóstico: 0.017993688583374023 segundos.

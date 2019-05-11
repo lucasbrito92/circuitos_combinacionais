@@ -1,0 +1,8 @@
+######### Análise do Circuito: S=((A xor B) xor p0) #########
+
+-> Possível falha para o circuito: ((PortaPresaEm0 xor B) xor XX)
+-> Possível falha para o circuito: ((A xor PortaPresaEm0) xor XX)
+-> Possível falha para o circuito: ((A xor B) xor PortaPresaEm0)
+
+
+Tempo de execução do diagnóstico: 0.009575843811035156 segundos.
