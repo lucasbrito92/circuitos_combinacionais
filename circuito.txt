@@ -1,0 +1,8 @@
+n_entr,3,Cin,A,B
+n_said,2,S,Cout
+n_gate,5,g1,g2,g3,g4,g5
+g1,xor,y1,A,B
+g2,xor,S,y1,Cin
+g3,and,y3,y1,Cin
+g4,and,y4,B,A
+g5,or,Cout,y3,y4
