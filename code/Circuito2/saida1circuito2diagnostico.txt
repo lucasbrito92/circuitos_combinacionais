@@ -1,7 +1,0 @@
-######### Análise do Circuito: G17=((D nxor p1) nxor not((F nand G))) #########
-
--> Possível falha para o circuito: ((PortaPresaEm1 nxor XX) nxor not((F nand G)))
--> Possível falha para o circuito: ((D nxor PortaPresaEm1) nxor not((F nand G)))
-
-
-Tempo de execução do diagnóstico: 0.012765884399414062 segundos.

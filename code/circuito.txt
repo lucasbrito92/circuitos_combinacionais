@@ -1,1 +1,0 @@
-S=(((A xor B) and C) or (A and p0))

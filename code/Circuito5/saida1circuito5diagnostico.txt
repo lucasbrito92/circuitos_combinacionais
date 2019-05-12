@@ -1,6 +1,0 @@
-######### Análise do Circuito: Circuito5Saida1=(((I or (J nand K) or (J or K)) nxor ((J nand K) nand ((J or K) or (L and M)))) nxor not((((N nand P) nand (p0 nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R))))) #########
-
--> Possível falha para o circuito: (((I or (J nand K) or (J or K)) nxor ((J nand K) nand ((J or K) or (L and M)))) nxor not((((N nand P) nand (PortaPresaEm0 nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))))
-
-
-Tempo de execução do diagnóstico: 4.585860967636108 segundos.

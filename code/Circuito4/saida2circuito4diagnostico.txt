@@ -1,6 +1,0 @@
-######### Análise do Circuito: S2C4=((O nand (P nand Q)) nand ((p0 nand Q) nand R)) #########
-
--> Possível falha para o circuito: ((O nand (P nand Q)) nand ((PortaPresaEm0 nand Q) nand R))
-
-
-Tempo de execução do diagnóstico: 0.0241849422454834 segundos.

@@ -1,6 +1,0 @@
-######### Análise do Circuito: Circuito5Saida2=((((J nand K) nand ((J or K) or (L and M))) nand (((N nand P) nand (O nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))) nand (((O nand (P nand Q)) nand ((P nand Q) nand p1)) nand ((A xor B) xor C))) #########
-
--> Possível falha para o circuito: ((((J nand K) nand ((J or K) or (L and M))) nand (((N nand P) nand (O nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))) nand (((O nand (P nand Q)) nand ((P nand Q) nand PortaPresaEm1)) nand ((A xor B) xor C)))
-
-
-Tempo de execução do diagnóstico: 26.73955988883972 segundos.

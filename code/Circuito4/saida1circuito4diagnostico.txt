@@ -1,6 +1,0 @@
-######### Análise do Circuito: S1C4=((N nand P) nand (p1 nand (P nand Q))) #########
-
--> Possível falha para o circuito: ((N nand P) nand (PortaPresaEm1 nand (P nand Q)))
-
-
-Tempo de execução do diagnóstico: 0.016017436981201172 segundos.
