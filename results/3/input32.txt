@@ -1,0 +1,1 @@
+O2=((J nand p1) nand ((J or K) or (L and M)))

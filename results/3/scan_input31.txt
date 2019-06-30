@@ -1,0 +1,7 @@
+Circuit Analysis: G16=((E nand (F nand p0)) nand (G nand H)) 
+
+-> Possible fail: ((E nand (PortaPresaEm0 nand XX)) nand (G nand H))
+-> Possible fail: ((E nand (F nand PortaPresaEm0)) nand (G nand H))
+
+
+Time elapsed: 0.08814001083374023 secs.

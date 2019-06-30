@@ -1,0 +1,6 @@
+Circuit Analysis: Cout=(((A xor B) and C) or (A and p0)) 
+
+-> Possible fail: (((A xor B) and C) or (A and PortaPresaEm0))
+
+
+Time elapsed: 0.08883500099182129 secs.

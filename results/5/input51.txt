@@ -1,0 +1,1 @@
+C5S1=(((I or (J nand K) or (J or K)) nxor ((J nand K) nand ((J or K) or (L and M)))) nxor not((((N nand P) nand (p0 nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))))

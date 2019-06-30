@@ -1,0 +1,6 @@
+Circuit Analysis: C5S2=((((J nand K) nand ((J or K) or (L and M))) nand (((N nand P) nand (O nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))) nand (((O nand (P nand Q)) nand ((P nand Q) nand p1)) nand ((A xor B) xor C))) 
+
+-> Possible fail: ((((J nand K) nand ((J or K) or (L and M))) nand (((N nand P) nand (O nand (P nand Q))) nand ((O nand (P nand Q)) nand ((P nand Q) nand R)))) nand (((O nand (P nand Q)) nand ((P nand Q) nand PortaPresaEm1)) nand ((A xor B) xor C)))
+
+
+Time elapsed: 95.24730491638184 secs.

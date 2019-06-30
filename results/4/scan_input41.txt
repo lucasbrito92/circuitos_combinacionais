@@ -1,0 +1,6 @@
+Circuit Analysis: S1C4=((N nand P) nand (p1 nand (P nand Q))) 
+
+-> Possible fail: ((N nand P) nand (PortaPresaEm1 nand (P nand Q)))
+
+
+Time elapsed: 0.16715216636657715 secs.

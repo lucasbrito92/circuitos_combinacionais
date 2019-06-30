@@ -1,0 +1,1 @@
+S2C4=((O nand (P nand Q)) nand ((p0 nand Q) nand R))

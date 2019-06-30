@@ -1,0 +1,1 @@
+S1C4=((N nand P) nand (p1 nand (P nand Q)))

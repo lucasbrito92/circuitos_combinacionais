@@ -1,0 +1,6 @@
+Circuit Analysis: S=(((A xor B) and C) or (A and p0)) 
+
+-> Possible fail: (((A xor B) and C) or (A and PortaPresaEm0))
+
+
+Time elapsed: 0.16687989234924316 secs.

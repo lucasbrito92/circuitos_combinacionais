@@ -1,0 +1,6 @@
+Circuit Analysis: S2C4=((O nand (P nand Q)) nand ((p0 nand Q) nand R)) 
+
+-> Possible fail: ((O nand (P nand Q)) nand ((PortaPresaEm0 nand Q) nand R))
+
+
+Time elapsed: 0.21694588661193848 secs.
